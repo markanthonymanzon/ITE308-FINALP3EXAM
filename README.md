@@ -7,6 +7,6 @@ Click the link for the Final Requirement Guidelines. Remember to read all the co
 
 Hi! Kindly do the following to accomplish DAY 24:
 
-Hi everyone! [SAS-24-ITE308-Final Documentation and Presentation Details.docx](https://github.com/markanthonymanzon/ITE308-FINALSP3EXAM/files/9924948/SAS-24-ITE308-Final.Documentation.and.Presentation.Details.docx)
+[SAS-24-ITE308-Final Documentation and Presentation Details.docx](https://github.com/markanthonymanzon/ITE308-FINALSP3EXAM/files/9924948/SAS-24-ITE308-Final.Documentation.and.Presentation.Details.docx)
 
 Click the link for  the Final Documentation Guidelines. Remember to read all the considerations carefully to get the corresponding points.  Please Turn In all your files on gcr Thanks!
