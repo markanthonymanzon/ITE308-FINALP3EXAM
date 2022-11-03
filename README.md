@@ -1,5 +1,6 @@
 # ITE308-FINALP3EXAM
 Hi! Kindly do the following to accomplish DAY 23:
+
 [SAS-23-ITE308-Final Requirement - Discussion of Standard.docx](https://github.com/markanthonymanzon/ITE308-FINALSP3EXAM/files/9924941/SAS-23-ITE308-Final.Requirement.-.Discussion.of.Standard.docx)
 
 Hi everyone! 
